@@ -10,7 +10,7 @@ import { getStorage } from "firebase/storage";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyCTWFd8FcL3qJXGG2P-T79ivAhW6CdC4og",
-  authDomain: "churchdocs-79e0d.firebaseapp.com",
+  authDomain: "churchdatabase.netlify.app",
   projectId: "churchdocs-79e0d",
   storageBucket: "churchdocs-79e0d.appspot.com",
   messagingSenderId: "1096538489264",
