@@ -179,7 +179,7 @@ function UploadPage() {
             <p className="text-white">{percent}%</p>
           </div>
         </div>
-        <div className="flex justify-center py-2 g hidden" id="sga">
+        <div className=" justify-center py-2 g hidden" id="sga">
           <div className="p-4 flex items-center z-10 w-2/3 lg:w-[30%] bg-slate-700 rounded-md shadow-2xl border-cyan-300 border-2 flex-col h-[40vh]">
             <p className="text-white my-6 z-10 cursor-pointer">
               Search For Files
